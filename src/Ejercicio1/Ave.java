@@ -1,6 +1,5 @@
 package Ejercicio1;
 
-
 public class Ave implements Volador, Cantante {
 
     @Override

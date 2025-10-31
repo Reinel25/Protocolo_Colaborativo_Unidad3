@@ -1,4 +1,4 @@
 package Ejercicio3;
 
-public class Gato extends Animal implements Corredor {
+public class Gato implements Corredor, Animal {
 }
